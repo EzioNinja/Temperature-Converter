@@ -4,7 +4,9 @@ This project is a simple web page that allows users to convert temperatures betw
 
 ## Demo
 
-https://ezioninja.github.io/Temperature-Converter/
+<a href="https://converttempnow.netlify.app/">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
 
 ## Features
 
